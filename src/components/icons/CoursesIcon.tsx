@@ -1,0 +1,20 @@
+import React from "react"
+
+const CoursesIcon = () => {
+  return (
+    <svg
+      width="24"
+      height="20"
+      viewBox="0 0 24 20"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M4.36364 11.3111V15.7556L12 20L19.6364 15.7556V11.3111L12 15.5556L4.36364 11.3111ZM12 0L0 6.66667L12 13.3333L21.8182 7.87778V15.5556H24V6.66667L12 0Z"
+        fill="white"
+      />
+    </svg>
+  )
+}
+
+export default CoursesIcon
